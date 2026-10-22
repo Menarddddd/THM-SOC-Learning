@@ -42,3 +42,32 @@ Comprehensive network traffic analysis covering multiple rooms with hands-on inv
 **Network Traffic Analysis Completion**
 
 ![nta_completion](./screenshots/nta_completion.png)
+
+---
+
+
+## Wireshark Packet Operations
+
+*Key concetps:* Packet Filtering, Protocol Filters, Packet investigation
+
+**What I learned:**
+- **Wireshark statistics:** Where we can look for certain information closely
+- **Packet filtering:** How to filter packet for IP, IPV6, DNS and other protocols
+- **Advanced filtering:** Learned how to use complex filtering like regex
+
+---
+
+
+**Wireshark filtering for IP TTL less than 10**
+
+![filter1](./screenshots/filter1.png)
+
+---
+
+
+**Getting the total for even number TTL packets**
+
+![filter2](./screenshots/filter2.png)
+
+---
+
