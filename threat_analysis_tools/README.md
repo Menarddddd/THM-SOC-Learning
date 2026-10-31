@@ -92,3 +92,43 @@ Introducing cyber threat intelligence and related topics, such as relevant stand
 
 ![sandbox_analysis](./screenshots/sandbox_analysis.png)
 
+<br><br><br><br><br>
+
+## **IP and Domain Threat Intel**
+
+*Key concepts:* IP lookup, domain analysis, and open-source threat intelligence (OSINT).
+
+**What I learned:**
+
+- **Enriching IP and Domain Data:** How to gather actionable insights on IPs and domains using open-source threat intelligence platforms to understand ownership, geolocation, and historic malicious activity.
+- **Tools for Analyzing IP and Domain Reputation:** Utilizing specialized tools to assess reputation scores, check public WHOIS registries, and evaluate DNS records to identify potential indicators of compromise (IoCs).
+- **VPN Detection and CDN Ranges:** How to distinguish between general user traffic, malicious proxy/VPN configurations, and legitimate Content Delivery Network (CDN) IP ranges to avoid false-positive blocks.
+
+
+
+**IP Enrichment in SOC**
+
+![ip_enrichment](./screenshots/ip_enrichment.png)
+
+
+**Using Shodan tool**
+
+![shodan](./screenshots/shodan.png)
+
+---
+
+**Using Censys to complete the challenge**
+
+![censys](./screenshots/censys.png)
+
+
+**VPN Detection**
+
+![vpn_detection](./screenshots/vpn_detection.png)
+
+---
+
+**Conclusion of the room**
+
+![conclusion](./screenshots/conclusion.png)
+
